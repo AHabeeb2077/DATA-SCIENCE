@@ -1,0 +1,11 @@
+[
+  {"customer_id":"C001","customer_name":"Adam Hassan","city":"Riyadh","segment":"Regular"},
+  {"customer_id":"C002","customer_name":"Sara Ali","city":"riyadh","segment":"Regular"},
+  {"customer_id":"C003","customer_name":"Omar Khaled","city":"Jeddah","segment":"Premium"},
+  {"customer_id":"C004","customer_name":"Lina Ahmed","city":"Riyadh","segment":"Premium"},
+  {"customer_id":"C005","customer_name":"Youssef Samir","city":"Dammam ","segment":"Regular"},
+  {"customer_id":"C006","customer_name":"Nour Adel","city":"Jeddah","segment":"Regular"},
+  {"customer_id":"C007","customer_name":"Khaled Mohamed","city":"Riyadh","segment":"Regular"},
+  {"customer_id":"C008","customer_name":"Mariam Tarek","city":"Dammam","segment":"Premium"},
+  {"customer_id":"C009","customer_name":"Ahmed Mostafa","city":"Riyadh","segment":"Regular"}
+]

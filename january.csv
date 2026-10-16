@@ -1,0 +1,11 @@
+order_id,customer_id,product,category,quantity,unit_price,status,order_date
+5001,C001,Keyboard,Electronics,2,120,Completed,2026-01-05
+5002,C002,Mouse,Electronics,1,60,completed,2026-01-06
+5003,C003,Notebook,Stationery,5,15,Completed,2026-01-07
+5004,C004,Monitor,Electronics,1,850,Completed,2026-01-08
+5005,C002,Pen,Stationery,10,5,Cancelled,2026-01-09
+5006,C005, Keyboard , electronics,1,120,Completed,2026-01-10
+5007,C001,Notebook,Stationery,3,,Completed,2026-01-11
+5008,C006,Mouse,Electronics,two,60,Completed,2026-01-12
+5009,C003,Monitor,Electronics,1,850 SAR,Completed,2026-01-13
+5010,C007,Pen,Stationery,6,5,Completed,2026-02-30

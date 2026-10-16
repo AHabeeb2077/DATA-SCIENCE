@@ -1,0 +1,11 @@
+order_id,customer_id,product,category,quantity,unit_price,status,order_date
+5011,C001,Mouse,Electronics,2,60,Completed,2026-02-02
+5012,C008,Desk Lamp,Home,1,95,Completed,2026-02-03
+5013,C009,Notebook,Stationery,4,15,Completed,2026-02-04
+5014,C004,Monitor,Electronics,1,850,completed,2026-02-05
+5015,C002,Pen,Stationery,12,5,Completed,2026-02-06
+5016,C010,Keyboard,Electronics,1,120,Returned,2026-02-07
+5017,C005,Desk Lamp,Home,2,95,Completed,not-a-date
+5018,C006,Mouse,Electronics,2,60,Completed,2026-02-09
+5019,C003,Monitor,Electronics,1,850,Completed,2026-02-10
+5019,C003,Monitor,Electronics,1,850,Completed,2026-02-10
